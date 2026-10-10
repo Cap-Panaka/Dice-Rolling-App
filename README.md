@@ -6,11 +6,8 @@
 
   <p>A minimal, interactive dice rolling app built with Flutter & Dart.</p>
 
-  <p>
-    <a href="https://cap-panaka.github.io/Dice-Rolling-App/">
-      <img src="https://img.shields.io/badge/🎲_Live_Demo-Play_Online-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
-    </a>
-  </p>
+ 
+  
 
  
 
