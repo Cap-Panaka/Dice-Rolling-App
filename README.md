@@ -12,9 +12,7 @@
     </a>
   </p>
 
-  <p>
-    <b><a href="https://cap-panaka.github.io/Dice-Rolling-App/">👉 Click here to try the Web Version</a></b>
-  </p>
+ 
 
 </div>
 
